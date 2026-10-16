@@ -5,7 +5,7 @@
 const SITE = {
   name: 'FABIO ENRICO VIGANÒ',
   socials: [
-    { label: 'Instagram', url: 'https://www.instagram.com/_fabiovig/', icon: 'img/social/instagram.png' },
+    { label: 'Instagram', url: 'https://www.instagram.com/fabiovig_/', icon: 'img/social/instagram.png' },
     { label: 'LinkedIn',  url: '', icon: 'img/social/linkedin.png' },
     { label: 'Behance',   url: '', icon: 'img/social/behance.png' }
   ]
